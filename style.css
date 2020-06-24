@@ -16,6 +16,8 @@ body{
 }
 
 .container {
+
+    margin: auto;
     text-align: center;
     display: flex;
     flex-flow: column;
@@ -60,8 +62,7 @@ body{
     display:flex;
     justify-content: center;
     align-items: center;
-
-    width:200px;
+    width:250px;
     height: 45px;
 
 }
